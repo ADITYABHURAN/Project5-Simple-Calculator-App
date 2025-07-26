@@ -1,4 +1,4 @@
-
+//git commit 
 const x = document.getElementById('number1');
 const y = document.getElementById('number2');
 const result = document.getElementById('result');
